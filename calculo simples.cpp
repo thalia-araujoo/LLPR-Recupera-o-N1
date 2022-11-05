@@ -33,4 +33,6 @@ int main() {
     
     
     return 0;
+    
 }
+//Eu confundi, não era esse cod, e não sei apagar daqui.//
